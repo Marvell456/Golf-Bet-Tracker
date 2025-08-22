@@ -1,30 +1,46 @@
 # Golf-Bet-Tracker
 A Python program to assist golf bet calculations. A golf game is full of bets with its own extensive rules. This program is built to assist golf players in calculating how much every player owes each other in a golf game through score, voor, buchi, etc.
 
-Feature:
+# Feature:
 - Payment tracking based on buchi, voor, scoring multipliers (par, boogey, eagle, etc), and par
 - Score tracking based on inputted score for each hole
 - Full GUI program to ensure easy navigation and usage
 - Double window pop-up: full game progress (score, voor, par, payment) and the gameplay, aka inputting scores and continuing the gameplay
 
-Tech Stack:
+# Tech Stack:
 - PyQt5
 
-Screenshots:
-![Game-Setup](screenshots/Game-Setup.png)
+# Screenshots:
+![Game-Setup](screenshots/GameSetup.png)
 
-![Voor-Adjustments](screenshots/Voor-Adjustments.png)
+![Voor-Adjustments](screenshots/VoorAdjustments.png)
 
 ![Gameplay](screenshots/Gameplay.png)
 
-![Buchi-Gamepla](screenshots/Buchi-Gameplay.png)
+![Buchi-Gamepla](screenshots/BuchiGameplay.png)
 
-![Round-1-Results](screenshots/Round-1-Results.png)
+![Round-1-Results](screenshots/Round1Results.png)
 
-![Live-Game-Progress](screenshots/Live-Game-Progress.png)
+![Live-Game-Progress](screenshots/LiveGameProgress.png)
 
-![Voor-Game-Progress](screenshots/Voor-Game-Progress.png)
+![Voor-Game-Progress](screenshots/VoorGameProgress.png)
 
-![Buchi-Game-Progress](screenshots/Buchi-Game-Progress.png)
+![Buchi-Game-Progress](screenshots/BuchiGameProgress.png)
 
-![Payment-Game-Progress](screenshots/Payment-Game-Progress.png)
+![Payment-Game-Progress](screenshots/PaymentGameProgress.png)
+
+# Installation & Usage
+1. Clone the repository:
+   git clone https://github.com/Marvell456/Golf-Bet-Tracker.git
+
+2. Install dependencies:
+   pip install -r requirements.txt
+
+3. Run the program:
+   python main.py
+
+# Future Improvements
+- Add buchi value
+- Fix bugs
+- Easier GUI navigation
+- Downloadable on Android to make it more accessible and suitable for its purpose

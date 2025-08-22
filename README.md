@@ -11,23 +11,23 @@ A Python program to assist golf bet calculations. A golf game is full of bets wi
 - PyQt5
 
 # Screenshots:
-![Game-Setup](screenshots/GameSetup.png)
+![Game Setup](screenshots/Game%20Setup.png)
 
-![Voor-Adjustments](screenshots/VoorAdjustments.png)
+![Voor Adjustments](screenshots/Voor%20Adjustments.png)
 
 ![Gameplay](screenshots/Gameplay.png)
 
-![Buchi-Gamepla](screenshots/BuchiGameplay.png)
+![Buchi Gamepla](screenshots/Buchi%20Gameplay.png)
 
-![Round-1-Results](screenshots/Round1Results.png)
+![Round 1 Results](screenshots/Round%201%20Results.png)
 
-![Live-Game-Progress](screenshots/LiveGameProgress.png)
+![Live Game Progress](screenshots/Live%20Game%20Progress.png)
 
-![Voor-Game-Progress](screenshots/VoorGameProgress.png)
+![Voor Game Progress](screenshots/Voor%20Game%20Progress.png)
 
-![Buchi-Game-Progress](screenshots/BuchiGameProgress.png)
+![Buchi Game Progress](screenshots/Buchi%20Game%20Progress.png)
 
-![Payment-Game-Progress](screenshots/PaymentGameProgress.png)
+![Payment Game Progress](screenshots/Payment%20Game%20Progress.png)
 
 # Installation & Usage
 1. Clone the repository:

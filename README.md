@@ -11,12 +11,20 @@ Tech Stack:
 - PyQt5
 
 Screenshots:
-![ScreenShot1](screenshots/Game_Setup.png)
-![ScreenShot2](screenshots/Voor_Adjustments.png)
-![ScreenShot3](screenshots/Gameplay.png)
-![ScreenShot4](screenshots/Buchi_Gameplay.png)
-![ScreenShot5](screenshots/Round_1_Results.png)
-![ScreenShot6](screenshots/Live_Game_Progress.png)
-![ScreenShot7](screenshots/Voor_Game_Progress.png)
-![ScreenShot8](screenshots/Buchi_Game_Progress.png)
-![ScreenShot9](screenshots/Payment_Game_Progress.png)
+![Game-Setup](screenshots/Game-Setup.png)
+
+![Voor-Adjustments](screenshots/Voor-Adjustments.png)
+
+![Gameplay](screenshots/Gameplay.png)
+
+![Buchi-Gamepla](screenshots/Buchi-Gameplay.png)
+
+![Round-1-Results](screenshots/Round-1-Results.png)
+
+![Live-Game-Progress](screenshots/Live-Game-Progress.png)
+
+![Voor-Game-Progress](screenshots/Voor-Game-Progress.png)
+
+![Buchi-Game-Progress](screenshots/Buchi-Game-Progress.png)
+
+![Payment-Game-Progress](screenshots/Payment-Game-Progress.png)

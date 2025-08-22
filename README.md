@@ -43,4 +43,7 @@ A Python program to assist golf bet calculations. A golf game is full of bets wi
 - Add buchi value
 - Fix bugs
 - Easier GUI navigation
-- Downloadable on Android to make it more accessible and suitable for its purpose
+- Downloadable on Android (Maybe using React + Expo)
+
+# Why I Built This
+I built this because my Dad wanted an app that could make calculating golf bets easier. He told me about how he and his friends had to calculate one by one, based on his notes after every golf game, to determine how much each person owes each others. It is frustrating, hideous, and time-wasting. Thus, I made him this program so that he can easily input his scores and his friends and output a result for how much each person owes the others. I hope that this will help him save time and effort and focus on having fun with his friends.
